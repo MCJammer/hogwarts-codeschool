@@ -1,2 +1,3 @@
 # hogwarts-codeschool
 It's like Quiddich, but with code...
+![Hogwarts Crest](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/hogwarts-crest-dimex-studio.jpg)
